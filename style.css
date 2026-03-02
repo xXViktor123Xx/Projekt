@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color:rgb(87, 87, 149);
+    background-color:rgb(255, 255, 255);
 }
 
 #English{
@@ -24,5 +24,75 @@ body{
 #lang_eng{
     position: absolute;
     top: 10px;
-    right: 10px;
+    left: 10px;
+}
+
+#lang_swe{
+    position: absolute;
+    top: 10px;
+    left: 50px; 
+}
+
+.menu-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  padding: 0 24px;
+  height: 60px;
+}
+
+.menu-container #menuNav {
+  display: none;
+  flex-direction: column;
+  gap: 20px;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  padding: 16px;
+  position: absolute;
+  top: 60px;
+  right: 60px;
+}
+
+.menu-container:hover #menuNav {
+  display: flex;
+}
+
+.logga {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  padding: 10px;
+  position: static;
+  margin-right: 45px;
+  transition: transform 0.3s;
+}
+
+.menu-container:hover .logga {
+  transform: rotate(90deg);
+}
+
+.menu a {
+  font-family: "Arial", sans-serif;
+  display: block;
+  padding: 18px;
+  text-decoration: none;
+  color: #000000;
+  font-size: 20px;
+  border: 1.5px solid #e0e0e0;
+  font-weight: 500;
+  transition: all 0.2s;
+  border-radius: 8px;
+  background-color: rgb(245, 245, 245);
+}
+
+.menu a:hover {
+  background-color: #4a6cf7;
+  color: rgb(255, 255, 255);
 }
