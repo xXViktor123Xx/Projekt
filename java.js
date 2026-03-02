@@ -5,7 +5,7 @@ const translations = {
     },
     english: {
         title: "Edgar Allan Poe",
-        content:`<p>Edgar Allan Poe (1809-1849) was an American writer, poet, editor, and literary critic, best known for his horror and mystery stories. He is considered one of the most influential figures in American literature and is often called "the master of horror".</p>`,
+        content:`<p>EdgarR Allan Poe (1809-1849) was an American writer, poet, editor, and literary critic, best known for his horror and mystery stories. He is considered one of the most influential figures in American literature and is often called "the master of horror".</p>`,
     }
 };
 
@@ -43,9 +43,4 @@ document.getElementById('menu').addEventListener('click', () => {
     const nav = document.querySelector('nav');
     nav.classList.toggle('active');
     
-});
-var angle = 0;
-$('#menu').on('click', function() {
-    angle += 90;
-    $("#menu").rotate(angle);
 });
