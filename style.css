@@ -1,17 +1,25 @@
+body{
+    background-color:rgb(87, 87, 149);
+
+}
+
 
 #flagga{
     height: 25px;
     width: 25px;
     border-radius: 3px;
 }
-body{
-    background-color:rgb(87, 87, 149);
 
-}
 #menuIcon{
     height: 25px;
     width: 25px;
     border-radius: 3px;
+}
+
+#lang_eng{
+    position: absolute; 
+    top: 10px;  
+    right: 50px;   
 }
 
 #English{
@@ -25,8 +33,14 @@ body{
 }
 
 #English:hover{
-        transform: scale(1.15);
+    transform: scale(1.15);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+#lang_swe{
+    position: absolute; 
+    top: 10px;  
+    right: 50px;   
 }
 
 #Svenska{
