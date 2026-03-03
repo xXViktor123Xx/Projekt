@@ -5,28 +5,42 @@
     border-radius: 3px;
 }
 body{
-    background-color:rgb(249, 249, 249);
+    background-color:rgb(87, 87, 149);
 
+}
+#menuIcon{
+    height: 25px;
+    width: 25px;
+    border-radius: 3px;
+}
+
+#English{
+    height: 25px;
+    width: 25px;
+    border-radius: 3px;
+
+    position: fixed; 
+    top: 10px;  
+    right: 10px; 
+}
+
+#English:hover{
+        transform: scale(1.15);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 #Svenska{
     height: 25px;
     width: 25px;
     border-radius: 3px;
+
+    position: fixed; 
+    top: 10px;  
+    right: 50px; 
 }
 
-#Svenska:hover {
-    transform: scale(1.1); 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-}
 
-#English{
-        height: 25px;
-    width: 25px;
-    border-radius: 3px;
-}
-
-#English:hover {
-    transform: scale(1.1); 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+#Svenska:hover{
+    transform: scale(1.15);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
