@@ -1,11 +1,32 @@
+
 #flagga{
-    height: 10px;
-    width: 10px;
+    height: 25px;
+    width: 25px;
     border-radius: 3px;
+}
+body{
+    background-color:rgb(249, 249, 249);
 
 }
 
-body{
-    background-color:rgb(87, 87, 149);
+#Svenska{
+    height: 25px;
+    width: 25px;
+    border-radius: 3px;
+}
 
+#Svenska:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+}
+
+#English{
+        height: 25px;
+    width: 25px;
+    border-radius: 3px;
+}
+
+#English:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
 }
