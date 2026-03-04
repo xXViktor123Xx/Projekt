@@ -3,6 +3,7 @@ body {
   font-family: "Segoe UI", sans-serif;
   color:rgb(0, 0, 0);
   background-color: rgb(205, 205, 205);
+}
 
 main {
   max-width: 900px;
