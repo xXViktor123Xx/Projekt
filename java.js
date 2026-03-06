@@ -1,7 +1,47 @@
 const translations = {
   swedish: {
     title: "Edgar Allan Poe",
-    content: `<p></p>`,
+    content: `<p>Edgar Allan Poes centrala tema fokuserar på den mörka sidan av den mänskliga erfarenheten, mest märkbart död, sorg och det makabra. Hans verk utforskar intensiv psykologisk skräck, inklusive galenskap, skuld, isolering och impulserna i det mänskliga sinnet.
+Hans mest anmärkningsvärda verk är The Raven, The Tell-Tale Heart, The fall of the House of Usher, The Cask of Amontillado och The Pit and the Pendulum.
+
+Edgar Allan Poe föddes den 19 januari 1809 i Boston, Massachusetts och dog den 7 oktober 1849 i Baltimore, Maryland. Edgar Allan Poe var en amerikansk författare och poet som är mest känd för sin poesi och sina noveller. Allan Poe bidrog också betydligt till science fiction-genren. Han är den första välkända amerikanska författaren som tjänade sitt levebröd på att skriva, vilket slutade i ett ekonomiskt svårt liv och en svår karriär.
+Edgar Allan Poe var det andra barnet till skådespelarna David Poe och Elizabeth Poe. Tidigt i hans liv övergav hans far familjen 1810, och när Eliza dog året därpå togs Poe om hand av John och Frances Allan.
+Poe studerade vid University of Virginia men lämnade efter ett år på grund av brist på pengar. Han grälade ofta med John Allan om pengar som behövdes för att fortsätta sin utbildning samt om sina spelskulder.
+
+Våra uppfattningar om Edgar Allan Poe är till stor del positiva. Vi uppskattar hans särpräglade skrivstil och hans innovativa användning av språket, inklusive hans skapande av nya ord.
+
+Edgar skrev den första detektivromanen någonsin och använde ett komplext system av deduktion för att nå slutsatser, och han var också en pionjär inom den gotiska skräckgenren.
+Edgar var skaparen av detektivromaner. Hans karaktär Auguste Dupin, som förekommer i flera verk såsom “murders on rue morgue”, “the purloined letter” och “the mystery of Marie Rôget”, introducerade logiskt resonemang och analys i en forensisk stil till en karaktär. Detta skapade mycket inspiration för senare detektivromaner såsom Sherlock Holmes. Han var också en pionjär inom den gotiska skräckgenren genom att fokusera på galenskap, död och den mörkare sidan av det mänskliga sinnet, vilket var ovanligt för den tiden. All denna påverkan kan ses idag i moderna skräckfilmer och detektivromaner.
+
+Våra uppfattningar om Edgar Allan Poe är till stor del positiva. Vi uppskattar hans särpräglade skrivstil och hans innovativa användning av språket, inklusive hans skapande av nya ord.
+Har du sett denna författare bli refererad till? I vilka situationer? (t.ex. i recensioner av andra romaner, filmrecensioner, filmer baserade på denna författares verk, musik osv.)
+Ja, mest i relation till den gotiska skräckgenren, men också i referenser till litteratur som helhet. Han nämns också många gånger i tv-serier och har kopplingar till låtar som Nevermore av Queen och I am the walrus av The Beatles.
+
+Texter av Edgar Allan Poe använder ofta begreppen sorg och förtvivlan för att föra handlingen i hans berättelser framåt. Ett känt exempel är hans skildring av protagonisten i “The Raven” som en sörjande man som längtar efter sin avlidna älskade. Sättet detta framställs på är genom att upprepade gånger nämna namnet på huvudpersonens döda älskade, Lenore, för att visa vår namnlösa protagonists besatthet av henne även efter hennes död.
+
+‘In visions of the dark night
+I have dreamed of joy departed—
+But a waking dream of life and light
+Hath left me broken-hearted.
+Ah! What is not a dream by day
+To him whose eyes are cast
+On things around him with a ray
+Turned back upon the past’
+-Edgar Allan Poe.
+
+Edgar Allan Poes huvudsakliga budskap, eller snarare hans mål, var inte att lära ut en enkel moralisk läxa utan att skapa en omedelbar känslomässig påverkan på läsaren, vilket han kallade “unity of effect”. Poe ansåg att varje element i en berättelse eller en dikt noggrant skulle vara beräknat för att bidra till en enda och ofta mörk känslomässig upplevelse, såsom skräck, melankoli eller vördnad.
+Några exempel i hans verk:
+Raven: En sörjande, hjärtekrossad berättare som sjunker ner i galenskap medan han sörjer sin älskades död.
+The Tell-Tale Heart: Okontrollerad skuld och paranoia, snarare än yttre krafter, är de slutliga förstörarna av ett brottsligt psyke.
+Edgar Allan Poes barndom präglades av död och instabilitet. Hans far övergav honom och hans mor dog av tuberkulos när han bara var två år gammal. Han bodde hos en annan familj och hans relation med dem var ofta spänd, särskilt när han blev äldre. Under år 1837 inträffade en ekonomisk kris och hög arbetslöshet och depression ökade, särskilt i Amerikas förenta stater. Dessa faktorer bidrog till det mörka temat i hans berättelser.
+Jämför den historiska kontexten med dagens samhälle.
+Under 1840-talet betraktades depression med förakt. Mental hälsa genomgick då en övergångsperiod, där den allmänna uppfattningen förändrades från ett religiöst till ett medicinskt perspektiv (en ny syn kallad “mental hygiene”). Psykisk sjukdom missförstods och stigmatiserades ofta, drivet av rädsla eller religiös iver. Personer med psykisk sjukdom hamnade ofta på asyl, där de behandlades som utstötta och separerades från familj och samhälle. De försökte behandla dem med metoder som blodtappning och elektroterapi. Asylerna var överfulla och underbemannade, vilket ledde till fruktansvärda levnadsförhållanden.
+I dagens samhälle har vi en mycket större förståelse för mental hälsa. Människor uppmuntras nu att tala öppet om det, och att söka hjälp är normaliserat. I skolor utbildas man om ämnet och om var man kan hitta stöd och hjälp.
+
+Det finns både likheter och skillnader mellan 1840-talet och idag. En likhet är att psykisk sjukdom fortfarande är ett problem som påverkar människor i modern tid. Detta visar att frågor om mental hälsa alltid har varit något som utmanar mänskligheten.
+En skillnad är synen på psykisk sjukdom. Under 1800-talet betraktades den ofta som galenskap, vilket ofta ledde till inläggning på galenhus. Behandlingarna var ofta smärtsamma och ineffektiva. Idag ses psykisk hälsa som ett medicinskt tillstånd. Det moderna samhället är också mer öppet för att diskutera mental hälsa, vilket gör det lättare för individer att söka hjälp utan samma nivå av skam.
+
+</p>`,
   },
   english: {
     title: "Edgar Allan Poe",
