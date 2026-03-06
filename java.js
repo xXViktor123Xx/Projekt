@@ -1,11 +1,14 @@
 const translations = {
     swedish: {
         title: "Edgar Allan Poe",
-        content:`<p>Edgar Allan Poe (1809-1849) var en amerikansk författare, poet, redaktör och litteraturkritiker, mest känd för sina skräck- och mysterieromaner. Han anses vara en av de mest inflytelserika figurerna i amerikansk litteratur och är ofta kallad "skräckens mästare".</p>`,
+        content:`<p></p>`,
     },
     english: {
         title: "Edgar Allan Poe",
-        content:`<p>EdgarR Allan Poe (1809-1849) was an American writer, poet, editor, and literary critic, best known for his horror and mystery stories. He is considered one of the most influential figures in American literature and is often called "the master of horror".</p>`,
+        content:`<p>Edgar Allan Poe's central theme focuses on the dark side of human experience, most notably death, grief and the macabre. His works explore intense psychological horror, including madness, guilt, isolation and the impulses of the human mind. 
+His most notable work is The Raven, The Tell-Tale Heart, The fall of the House of Usher, The Cask of Amontillado and The Pit and the Pendulum. Edgar Allan Poe was born January 19 1809  Boston Massachusetts and died October 7 1849 Baltimore Maryland.  Edgar Allan Poe was  an American writer and poet who is best known for his poetry and short stories, Allan Poe also contributing significantly to the science fiction genre. He is the first well known American author to earn a living from writing which ended in a financially difficult life and career. 
+Edgar Allan Poe was the second child of the actors David Poe and Elizabeth Poe. In his early life his father abandoned the family in 1810, and when Eliza died the following year, Poe was taken in by John and Frances Allan. 
+Poe attended the University of Virginia but left after a year due to lack of money. He frequently argued with John Allan over funds needed to continue his education as well as his gambling debt. Edgar Allan Poe was unusual rather than typical for his period in terms of his professional and economic dependence on writing. While many early nineteenth century American writers held other jobs, relied on financial support for family or received patronage, Poe attempted to support himself almost entirely through his work including writing, editing and publishing.</p>`,
     }
 };
 
