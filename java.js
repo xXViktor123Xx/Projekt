@@ -19,14 +19,14 @@ Ja, mest i relation till den gotiska skräckgenren, men också i referenser till
 
 Texter av Edgar Allan Poe använder ofta begreppen sorg och förtvivlan för att föra handlingen i hans berättelser framåt. Ett känt exempel är hans skildring av protagonisten i “The Raven” som en sörjande man som längtar efter sin avlidna älskade. Sättet detta framställs på är genom att upprepade gånger nämna namnet på huvudpersonens döda älskade, Lenore, för att visa vår namnlösa protagonists besatthet av henne även efter hennes död.
 
-‘In visions of the dark night
+"In visions of the dark night
 I have dreamed of joy departed—
 But a waking dream of life and light
 Hath left me broken-hearted.
 Ah! What is not a dream by day
 To him whose eyes are cast
 On things around him with a ray
-Turned back upon the past’
+Turned back upon the past"
 -Edgar Allan Poe.
 
 Edgar Allan Poes huvudsakliga budskap, eller snarare hans mål, var inte att lära ut en enkel moralisk läxa utan att skapa en omedelbar känslomässig påverkan på läsaren, vilket han kallade “unity of effect”. Poe ansåg att varje element i en berättelse eller en dikt noggrant skulle vara beräknat för att bidra till en enda och ofta mörk känslomässig upplevelse, såsom skräck, melankoli eller vördnad.
@@ -39,9 +39,7 @@ Under 1840-talet betraktades depression med förakt. Mental hälsa genomgick då
 I dagens samhälle har vi en mycket större förståelse för mental hälsa. Människor uppmuntras nu att tala öppet om det, och att söka hjälp är normaliserat. I skolor utbildas man om ämnet och om var man kan hitta stöd och hjälp.
 
 Det finns både likheter och skillnader mellan 1840-talet och idag. En likhet är att psykisk sjukdom fortfarande är ett problem som påverkar människor i modern tid. Detta visar att frågor om mental hälsa alltid har varit något som utmanar mänskligheten.
-En skillnad är synen på psykisk sjukdom. Under 1800-talet betraktades den ofta som galenskap, vilket ofta ledde till inläggning på galenhus. Behandlingarna var ofta smärtsamma och ineffektiva. Idag ses psykisk hälsa som ett medicinskt tillstånd. Det moderna samhället är också mer öppet för att diskutera mental hälsa, vilket gör det lättare för individer att söka hjälp utan samma nivå av skam.
-
-</p>`,
+En skillnad är synen på psykisk sjukdom. Under 1800-talet betraktades den ofta som galenskap, vilket ofta ledde till inläggning på galenhus. Behandlingarna var ofta smärtsamma och ineffektiva. Idag ses psykisk hälsa som ett medicinskt tillstånd. Det moderna samhället är också mer öppet för att diskutera mental hälsa, vilket gör det lättare för individer att söka hjälp utan samma nivå av skam. </p>`,
   },
   english: {
     title: "Edgar Allan Poe",
@@ -57,15 +55,15 @@ Our views of Edgar Allan Poe are largely positive. We appreciate his distinctive
 
 Yes, mostly in relation to the gothic horror genre, but also in reference to literature as a whole. He is also mentioned numerous times in tv-shows and has connections to songs which are Nevermore by Queen, I am the walrus by The Beatles. 
 
-Texts by Edgar Allan Poe often use the concepts of grief and despair to forward the plot of his stories. A famous example would be his depiction of the protagonist in “The Raven” as a grieving man longing for his departed lover. The way this is portrayed is by repeatedly mentioning the name of the main character’s deceased lover, Lenore, to show our nameless protagonist’s obsession with her even in death.
-‘In visions of the dark night
+Texts by Edgar Allan Poe often use the concepts of grief and despair to forward the plot of his stories. A famous example would be his depiction of the protagonist in “The Raven” as a grieving man longing for his departed lover. The way this is portrayed is by repeatedly mentioning the name of the main character's deceased lover, Lenore, to show our nameless protagonist's obsession with her even in death.
+'In visions of the dark night
 I have dreamed of joy departed—
 But a waking dream of life and light
 Hath left me broken-hearted.
 Ah! What is not a dream by day
 To him whose eyes are cast
 On things around him with a ray
-Turned back upon the past’
+Turned back upon the past'
 -Edgar Allan Poe.
 
 Edgar Allan Poe's primary message or rather his goal was not to teach a simple lesson but to create an immediate emotional impact on the reader, which he termed the “unity of effect. Poe believed that every element of a story or a poem should be meticulously calculated to contribute to a single and often dark emotional experience, such as terror, melancholy or awe. 
@@ -76,7 +74,7 @@ The Tell-Tale Heart: Unchecked guilt and paranoia, rather than external forces, 
 Edgar Allan Poe's childhood was marked by death and instability. His father abandoned him and his mother died of tuberculosis, when he was just two. He lived with another family and his relationship with them was often tense especially when he got older. During the year 1837 a financial crisis occurred and high unemployment and depression increased especially in the United States of America. These factors contributed to his dark theme in his story. 
 
 During the 1840s mental health was going through a transitional period, with the general opinion changing from a religious to a medical standpoint (a new perspective by the name of “mental hygiene"). Mental illness was misunderstood and stigmatized often driven by fear or religious zealotry. People with mental illness often ended up in asylum where they were treated as outcasts separated from family and society. They tried to treat them with methods such as bloodletting and electrotherapy. The asylums were overcrowded and understaffed, leading to horrendous living conditions. 
-		In today’s society we have a much larger understanding of mental health. People are nowadays encouraged to speak openly about it and seeking help is normalized. In schools they educate about the subject and where you can find help.
+		In today's society we have a much larger understanding of mental health. People are nowadays encouraged to speak openly about it and seeking help is normalized. In schools they educate about the subject and where you can find help.
 
 There are similarities and differences between the 1840s and now. One similarity is that mental illness is still a problem that troubles us today. This shows that mental health problems are something always prone to  trouble humanity. The difference is the view of it, during the 19th century they saw it as insanity. which often led to confinement in asylums. The treatments were often painful and did not help. Today mental health is understood as a medical condition. Modern society is also more open about discussing mental health, making it easier for individuals to seek help without the same level of shame
         </p>`,
