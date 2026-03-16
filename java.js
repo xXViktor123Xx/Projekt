@@ -76,7 +76,7 @@ His most notable work is The Raven, The Tell-Tale Heart, The fall of the House o
 
 <section id="c">
   <h2>Why is (or is not) this author typical of the period when he/she worked? </h2>
-  <p>Our views of Edgar Allan Poe are largely positive. We appreciate his distinctive writing style and his innovative use of language, including his creation of new words.</p>
+  <p>Edgar Allan Poe was unusual rather than typical for his period in terms of his professional and economic dependence on writing. While many early nineteenth century American writers held other jobs, relied on financial support for family, Poe attempted to support himself almost entirely through his work including writing, editing and publishing. </p>
 </section>
 
 <section id="d">
@@ -87,8 +87,8 @@ His most notable work is The Raven, The Tell-Tale Heart, The fall of the House o
 
 <section id="e">
   <h2>What are our views of him/her today? What is your opinion?</h2>
-  <p>Our views of Edgar Allan Poe are largely positive. We appreciate his distinctive writing style and his innovative use of language, including his creation of new words.</p>
-  <p>Har du sett denna författare bli refererad till? I vilka situationer? (t.ex. i recensioner av andra romaner, filmrecensioner, filmer baserade på denna författares verk, musik osv.)</p>
+  <p>Our views of Edgar Allan Poe are largely positive. We appreciate his distinctive writing style and his innovative use of language, including his creation of new words.</p></section>
+  <section id="e"><h2>Have you seen this author being referred to? In what situations? (e.g. in reviews of other novels, reviews of films, films based on the work of this author, music etc.)</h2>
   <p>Yes, mostly in relation to the gothic horror genre, but also in reference to literature as a whole. He is also mentioned numerous times in tv-shows and has connections to songs which are Nevermore by Queen, I am the walrus by The Beatles.</p>
 </section>
 
